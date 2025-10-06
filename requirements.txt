@@ -1,0 +1,12 @@
+numpy==1.26.1
+scipy
+pymc
+arviz
+cartopy
+matplotlib
+ipykernel
+aesara
+graphviz
+ipywidgets
+seaborn
+jupyter
