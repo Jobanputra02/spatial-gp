@@ -38,7 +38,3 @@
 - If you encounter Aesara circular import errors, restart your IDE or notebook server.
 - Graphviz setup is often the trickiest part; ensure system binaries are in PATH.
 - If Graphviz not set up correctly, PyMC/ArviZ (model graphs) plotting may fail.
-
-## Additional Resources
-
-A folder named `T5 Downloadables` will be shared via this link: (https://unisaarlandde-my.sharepoint.com/:f:/g/personal/chjo00006_uni-saarland_de/Et9gYB3ArkNJmVwMCGzm8ZABQ3JUNz3OJQTen0HnM7NCFA?e=YggJZy) that will contain all necessary files before the talk.  
